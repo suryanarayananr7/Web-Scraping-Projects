@@ -1,0 +1,312 @@
+,name,id_ref,consumption_status,is_rewatch,score,progress
+0,Aharen-san wa Hakarenai,49520,{'name': 'consuming'},FALSE,0,2
+1,Azumanga Daiou The Animation,66,{'name': 'consuming'},FALSE,0,1
+2,Black Clover,34572,{'name': 'consuming'},FALSE,0,101
+3,Blue Lock,49596,{'name': 'consuming'},FALSE,0,17
+4,Boku no Hero Academia 6th Season,49918,{'name': 'consuming'},FALSE,0,2
+5,Boruto: Naruto Next Generations,34566,{'name': 'consuming'},FALSE,0,256
+6,Chuunibyou demo Koi ga Shitai!,14741,{'name': 'consuming'},FALSE,0,7
+7,Danshi Koukousei no Nichijou,11843,{'name': 'consuming'},FALSE,0,1
+8,Dumbbell Nan Kilo Moteru?,39026,{'name': 'consuming'},FALSE,0,5
+9,Fairy Tail,6702,{'name': 'consuming'},FALSE,0,80
+10,Gakuen Babysitters,35222,{'name': 'consuming'},FALSE,0,1
+11,Grand Blue,37105,{'name': 'consuming'},FALSE,0,1
+12,InuYasha,249,{'name': 'consuming'},FALSE,0,134
+13,Jibaku Shounen Hanako-kun,39534,{'name': 'consuming'},FALSE,0,2
+14,Kaifuku Jutsushi no Yarinaoshi,40750,{'name': 'consuming'},FALSE,0,7
+15,Karakai Jouzu no Takagi-san 2,38993,{'name': 'consuming'},FALSE,0,4
+16,"Komi-san wa, Comyushou desu.",48926,{'name': 'consuming'},FALSE,0,1
+17,Love Live! School Idol Project,15051,{'name': 'consuming'},FALSE,0,1
+18,Murenase! Seton Gakuen,40483,{'name': 'consuming'},FALSE,0,2
+19,Mushoku Tensei: Isekai Ittara Honki Dasu,39535,{'name': 'consuming'},FALSE,0,5
+20,Nekopara,38924,{'name': 'consuming'},FALSE,0,6
+21,Nichijou,10165,{'name': 'consuming'},FALSE,0,4
+22,Non Non Biyori,17549,{'name': 'consuming'},FALSE,0,1
+23,One Piece,21,{'name': 'consuming'},FALSE,0,1017
+24,Ousama Ranking,40834,{'name': 'consuming'},FALSE,0,11
+25,Senpai ga Uzai Kouhai no Hanashi,42351,{'name': 'consuming'},FALSE,0,1
+26,Sono Bisque Doll wa Koi wo Suru,48736,{'name': 'consuming'},FALSE,0,1
+27,Spy x Family,50265,{'name': 'consuming'},FALSE,0,5
+28,Super Dragon Ball Heroes,37885,{'name': 'consuming'},FALSE,0,7
+29,Uzaki-chan wa Asobitai!,41226,{'name': 'consuming'},FALSE,0,5
+30,Vinland Saga Season 2,49387,{'name': 'consuming'},FALSE,0,3
+31,Yakusoku no Neverland 2nd Season,39617,{'name': 'consuming'},FALSE,0,5
+32,5-toubun no Hanayome,38101,{'name': 'completed'},FALSE,10,12
+33,5-toubun no Hanayome ∬,39783,{'name': 'completed'},FALSE,10,12
+34,Aho Girl,34881,{'name': 'completed'},FALSE,8,12
+35,Akame ga Kill!,22199,{'name': 'completed'},FALSE,9,24
+36,Akkun to Kanojo,36864,{'name': 'completed'},FALSE,8,25
+37,Amagi Brilliant Park,22147,{'name': 'completed'},FALSE,8,13
+38,Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!,30206,{'name': 'completed'},FALSE,8,1
+39,Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage,30056,{'name': 'completed'},FALSE,8,7
+40,Angel Beats!,6547,{'name': 'completed'},FALSE,9,13
+41,Angel Beats! Specials,9062,{'name': 'completed'},FALSE,9,2
+42,Anitore! EX,31519,{'name': 'completed'},FALSE,6,12
+43,Anitore! EX: Jigoku no Training,32886,{'name': 'completed'},FALSE,6,5
+44,Anitore! XX: Hitotsu Yane no Shita de,33746,{'name': 'completed'},FALSE,6,12
+45,Anitore! XX: Hitotsu Yane no Shita de Specials,38177,{'name': 'completed'},FALSE,6,6
+46,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9989,{'name': 'completed'},FALSE,9,11
+47,Another,11111,{'name': 'completed'},FALSE,8,12
+48,Asobi Asobase,37171,{'name': 'completed'},FALSE,8,12
+49,B-gata H-kei,7817,{'name': 'completed'},FALSE,8,12
+50,Bakemono no Ko,28805,{'name': 'completed'},FALSE,8,1
+51,Banana Fish,36649,{'name': 'completed'},FALSE,7,24
+52,Beelzebub-jou no Okinimesu mama.,37716,{'name': 'completed'},FALSE,6,12
+53,Bleach,269,{'name': 'completed'},FALSE,8,366
+54,Blend S,34618,{'name': 'completed'},FALSE,8,12
+55,Blood-C,10490,{'name': 'completed'},FALSE,7,12
+56,Bocchi the Rock!,47917,{'name': 'completed'},FALSE,10,12
+57,Boku dake ga Inai Machi,31043,{'name': 'completed'},FALSE,9,12
+58,Boku no Hero Academia,31964,{'name': 'completed'},FALSE,9,13
+59,Boku no Hero Academia 2nd Season,33486,{'name': 'completed'},FALSE,9,25
+60,Boku no Hero Academia 3rd Season,36456,{'name': 'completed'},FALSE,8,25
+61,Boku no Hero Academia 4th Season,38408,{'name': 'completed'},FALSE,5,25
+62,Boku no Hero Academia 5th Season,41587,{'name': 'completed'},FALSE,8,25
+63,Boku no Hero Academia the Movie 1: Futari no Hero,36896,{'name': 'completed'},FALSE,7,1
+64,Boku no Hero Academia: Sukue! Kyuujo Kunren!,33929,{'name': 'completed'},FALSE,9,2
+65,Bokutachi wa Benkyou ga Dekinai,38186,{'name': 'completed'},FALSE,9,13
+66,Bokutachi wa Benkyou ga Dekinai!,40004,{'name': 'completed'},FALSE,9,13
+67,Boruto: Naruto the Movie,28755,{'name': 'completed'},FALSE,10,1
+68,Byousoku 5 Centimeter,1689,{'name': 'completed'},FALSE,8,3
+69,Chainsaw Man,44511,{'name': 'completed'},FALSE,8,12
+70,Charlotte,28999,{'name': 'completed'},FALSE,9,13
+71,Citrus,34382,{'name': 'completed'},FALSE,6,12
+72,Clannad,2167,{'name': 'completed'},FALSE,10,23
+73,Clannad: After Story,4181,{'name': 'completed'},FALSE,10,24
+74,Code Geass: Hangyaku no Lelouch,1575,{'name': 'completed'},FALSE,9,25
+75,Code Geass: Hangyaku no Lelouch R2,2904,{'name': 'completed'},FALSE,10,25
+76,Colorful (Movie),8142,{'name': 'completed'},FALSE,8,1
+77,Danna ga Nani wo Itteiru ka Wakaranai Ken,26349,{'name': 'completed'},FALSE,8,13
+78,Darker than Black: Kuro no Keiyakusha,2025,{'name': 'completed'},FALSE,7,25
+79,Darker than Black: Ryuusei no Gemini,6573,{'name': 'completed'},FALSE,6,12
+80,Darling in the FranXX,35849,{'name': 'completed'},FALSE,8,24
+81,Death Note,1535,{'name': 'completed'},FALSE,10,37
+82,Death Parade,28223,{'name': 'completed'},FALSE,9,12
+83,Domestic na Kanojo,37982,{'name': 'completed'},FALSE,10,12
+84,Dororo,37520,{'name': 'completed'},FALSE,7,24
+85,Dr. Stone,38691,{'name': 'completed'},FALSE,9,24
+86,Dragon Ball,223,{'name': 'completed'},FALSE,9,153
+87,Dragon Ball GT,225,{'name': 'completed'},FALSE,8,64
+88,Dragon Ball Super,30694,{'name': 'completed'},TRUE,10,10
+89,Dragon Ball Super: Broly,36946,{'name': 'completed'},FALSE,9,1
+90,Dragon Ball Z,813,{'name': 'completed'},FALSE,9,291
+91,Ergo Proxy,790,{'name': 'completed'},FALSE,7,23
+92,Eromanga-sensei,32901,{'name': 'completed'},FALSE,7,12
+93,Fate/Zero,10087,{'name': 'completed'},FALSE,6,13
+94,Fate/Zero 2nd Season,11741,{'name': 'completed'},FALSE,6,12
+95,Fullmetal Alchemist: Brotherhood,5114,{'name': 'completed'},FALSE,8,64
+96,Gabriel DropOut,33731,{'name': 'completed'},FALSE,8,12
+97,Goblin Slayer,37349,{'name': 'completed'},FALSE,8,12
+98,Golden Boy,268,{'name': 'completed'},FALSE,7,6
+99,Golden Time,17895,{'name': 'completed'},FALSE,6,24
+100,Haikyuu!!,20583,{'name': 'completed'},FALSE,9,25
+101,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,32935,{'name': 'completed'},FALSE,10,10
+102,Haikyuu!! Lev Genzan!,25303,{'name': 'completed'},FALSE,7,1
+103,Haikyuu!! Second Season,28891,{'name': 'completed'},FALSE,10,25
+104,"Haikyuu!! vs. ""Akaten""",35806,{'name': 'completed'},FALSE,10,1
+105,Hajimete no Gal,34403,{'name': 'completed'},FALSE,6,10
+106,Hajimete no Gal: Hajimete no Bunkasai,35237,{'name': 'completed'},FALSE,6,1
+107,Hantsu x Trash,31491,{'name': 'completed'},FALSE,6,3
+108,Hataraku Saibou,37141,{'name': 'completed'},FALSE,8,13
+109,Hataraku Saibou: Kaze Shoukougun,38733,{'name': 'completed'},FALSE,7,1
+110,Himouto! Umaru-chan,28825,{'name': 'completed'},FALSE,8,12
+111,Himouto! Umaru-chan R,35376,{'name': 'completed'},FALSE,8,12
+112,Hitoribocchi no Marumaru Seikatsu,37614,{'name': 'completed'},FALSE,9,12
+113,Hotaru no Haka,578,{'name': 'completed'},FALSE,8,1
+114,Hotarubi no Mori e,10408,{'name': 'completed'},FALSE,7,1
+115,Hunter x Hunter (2011),11061,{'name': 'completed'},FALSE,8,148
+116,Inazuma Eleven,5231,{'name': 'completed'},FALSE,5,127
+117,Inuyashiki,34542,{'name': 'completed'},FALSE,8,11
+118,Irozuku Sekai no Ashita kara,37497,{'name': 'completed'},FALSE,8,13
+119,Isekai Quartet,38472,{'name': 'completed'},FALSE,7,12
+120,Island,33012,{'name': 'completed'},FALSE,7,12
+121,Jingai-san no Yome,37992,{'name': 'completed'},FALSE,6,12
+122,JoJo no Kimyou na Bouken (TV),14719,{'name': 'completed'},FALSE,8,26
+123,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,20899,{'name': 'completed'},FALSE,7,24
+124,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,26055,{'name': 'completed'},FALSE,9,24
+125,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,31933,{'name': 'completed'},FALSE,9,39
+126,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,37991,{'name': 'completed'},FALSE,10,39
+127,Joker Game,31405,{'name': 'completed'},FALSE,7,12
+128,Joshiochi!: 2-kai kara Onnanoko ga... Futtekita!?,37281,{'name': 'completed'},FALSE,6,9
+129,Jujutsu Kaisen,40748,{'name': 'completed'},FALSE,8,24
+130,Jujutsu Kaisen 0 Movie,48561,{'name': 'completed'},FALSE,9,1
+131,K-On!,5680,{'name': 'completed'},FALSE,8,13
+132,K-On!!,7791,{'name': 'completed'},FALSE,10,26
+133,K-On!!: Keikaku!,9734,{'name': 'completed'},FALSE,10,1
+134,K-On!: Live House!,6862,{'name': 'completed'},FALSE,8,1
+135,K-On!: Ura-On!,7017,{'name': 'completed'},FALSE,7,7
+136,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,37999,{'name': 'completed'},FALSE,7,12
+137,Kakegurui,34933,{'name': 'completed'},FALSE,8,12
+138,Kakegurui××,37086,{'name': 'completed'},FALSE,7,12
+139,Kami no Tou,40221,{'name': 'completed'},FALSE,9,13
+140,"Kanojo, Okarishimasu",40839,{'name': 'completed'},FALSE,9,12
+141,Karakai Jouzu no Takagi-san,35860,{'name': 'completed'},FALSE,8,12
+142,Karakai Jouzu no Takagi-san: Water Slide,37621,{'name': 'completed'},FALSE,9,1
+143,Kaze no Matasaburou,12141,{'name': 'completed'},FALSE,6,1
+144,Kaze Tachinu,16662,{'name': 'completed'},FALSE,8,1
+145,Kekkai Sensen,24439,{'name': 'completed'},FALSE,6,12
+146,Kekkai Sensen & Beyond,34451,{'name': 'completed'},FALSE,6,12
+147,Kimetsu no Yaiba,38000,{'name': 'completed'},FALSE,8,26
+148,Kimetsu no Yaiba Movie: Mugen Ressha-hen,40456,{'name': 'completed'},FALSE,10,1
+149,Kimetsu no Yaiba: Mugen Ressha-hen,49926,{'name': 'completed'},FALSE,10,7
+150,Kimetsu no Yaiba: Yuukaku-hen,47778,{'name': 'completed'},FALSE,9,11
+151,Kimi no Na wa.,32281,{'name': 'completed'},FALSE,10,1
+152,Kimi no Suizou wo Tabetai,36098,{'name': 'completed'},FALSE,9,1
+153,Kiseijuu: Sei no Kakuritsu,22535,{'name': 'completed'},FALSE,7,24
+154,Kishuku Gakkou no Juliet,37475,{'name': 'completed'},FALSE,9,12
+155,Kiznaiver,31798,{'name': 'completed'},FALSE,8,12
+156,Kobayashi-san Chi no Maid Dragon,33206,{'name': 'completed'},FALSE,9,13
+157,Kobayashi-san Chi no Maid Dragon S,39247,{'name': 'completed'},FALSE,10,12
+158,Koe no Katachi,28851,{'name': 'completed'},FALSE,10,1
+159,Koi Kaze,634,{'name': 'completed'},FALSE,8,13
+160,Kokoro ga Sakebitagatterunda.,28725,{'name': 'completed'},FALSE,9,1
+161,Kono Sekai no Katasumi ni,15227,{'name': 'completed'},FALSE,9,1
+162,Kono Subarashii Sekai ni Shukufuku wo!,30831,{'name': 'completed'},FALSE,8,10
+163,Kono Subarashii Sekai ni Shukufuku wo! 2,32937,{'name': 'completed'},FALSE,8,10
+164,Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!,34626,{'name': 'completed'},FALSE,8,1
+165,Kono Subarashii Sekai ni Shukufuku wo! Kono Subarashii Choker ni Shukufuku wo!,32380,{'name': 'completed'},FALSE,8,1
+166,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,38040,{'name': 'completed'},FALSE,7,1
+167,Kotonoha no Niwa,16782,{'name': 'completed'},FALSE,10,1
+168,Kuroko no Basket,11771,{'name': 'completed'},FALSE,6,25
+169,Kuroko no Basket 2nd Season,16894,{'name': 'completed'},FALSE,7,25
+170,Kuroko no Basket 2nd Season NG-shuu,22673,{'name': 'completed'},FALSE,7,9
+171,Kuroko no Basket 3rd Season,24415,{'name': 'completed'},FALSE,6,25
+172,Kuzu no Honkai,32949,{'name': 'completed'},FALSE,10,12
+173,Kyoukai no Kanata,18153,{'name': 'completed'},FALSE,8,12
+174,Made in Abyss,34599,{'name': 'completed'},FALSE,9,13
+175,Mahou Shoujo Madoka★Magica,9756,{'name': 'completed'},FALSE,9,12
+176,Maken-Ki!,9936,{'name': 'completed'},FALSE,6,12
+177,Maken-Ki! Two,15565,{'name': 'completed'},FALSE,7,10
+178,Masou Gakuen HxH,31845,{'name': 'completed'},FALSE,8,12
+179,Masou Gakuen HxH Specials,34447,{'name': 'completed'},FALSE,8,6
+180,Mimi wo Sumaseba,585,{'name': 'completed'},FALSE,8,1
+181,Miru Tights,38935,{'name': 'completed'},FALSE,6,12
+182,Mob Psycho 100,32182,{'name': 'completed'},FALSE,9,12
+183,Mob Psycho 100 II,37510,{'name': 'completed'},FALSE,8,13
+184,Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha,36616,{'name': 'completed'},FALSE,7,1
+185,Monster,19,{'name': 'completed'},FALSE,6,74
+186,Nanatsu no Taizai,23755,{'name': 'completed'},FALSE,9,24
+187,Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito,35946,{'name': 'completed'},FALSE,8,1
+188,Nanatsu no Taizai: Imashime no Fukkatsu,34577,{'name': 'completed'},FALSE,9,24
+189,Nanatsu no Taizai: Kamigami no Gekirin,39701,{'name': 'completed'},FALSE,5,24
+190,Nanatsu no Taizai: Seisen no Shirushi,31722,{'name': 'completed'},FALSE,8,4
+191,Nande Koko ni Sensei ga!?,38397,{'name': 'completed'},FALSE,8,11
+192,Naruto,20,{'name': 'completed'},FALSE,10,220
+193,Naruto: Shippuuden,1735,{'name': 'completed'},FALSE,10,500
+194,Neon Genesis Evangelion,30,{'name': 'completed'},FALSE,7,26
+195,Neon Genesis Evangelion: The End of Evangelion,32,{'name': 'completed'},FALSE,7,1
+196,NHK ni Youkoso!,1210,{'name': 'completed'},FALSE,7,24
+197,Nisekoi,18897,{'name': 'completed'},FALSE,5,20
+198,Nisekoi:,27787,{'name': 'completed'},FALSE,5,12
+199,No Game No Life,19815,{'name': 'completed'},FALSE,9,12
+200,No Game No Life Specials,24991,{'name': 'completed'},FALSE,9,6
+201,Noragami,20507,{'name': 'completed'},FALSE,9,12
+202,Noragami Aragoto,30503,{'name': 'completed'},FALSE,9,13
+203,Noragami Aragoto OVA,30885,{'name': 'completed'},FALSE,8,2
+204,Noragami OVA,20767,{'name': 'completed'},FALSE,9,2
+205,Nyanko Days,34148,{'name': 'completed'},FALSE,7,12
+206,Omoi no Kakera,32190,{'name': 'completed'},FALSE,6,1
+207,One Piece Film: Strong World Episode 0,8740,{'name': 'completed'},FALSE,10,1
+208,One Piece Movie 01,459,{'name': 'completed'},FALSE,10,1
+209,One Piece Movie 02: Nejimaki-jima no Daibouken,460,{'name': 'completed'},FALSE,10,1
+210,One Piece Movie 14: Stampede,38234,{'name': 'completed'},FALSE,10,1
+211,One Punch Man,30276,{'name': 'completed'},FALSE,9,12
+212,One Punch Man 2nd Season,34134,{'name': 'completed'},FALSE,1,12
+213,One Punch Man Specials,31772,{'name': 'completed'},FALSE,7,6
+214,One Punch Man: Road to Hero,31704,{'name': 'completed'},FALSE,8,1
+215,One Room,34392,{'name': 'completed'},FALSE,7,12
+216,One Room: Second Season,36431,{'name': 'completed'},FALSE,7,12
+217,Ongaku Shoujo (TV),37481,{'name': 'completed'},FALSE,7,12
+218,Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!,9587,{'name': 'completed'},FALSE,9,12
+219,Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!! Special,10219,{'name': 'completed'},FALSE,8,1
+220,Ookami Kodomo no Ame to Yuki,12355,{'name': 'completed'},FALSE,9,1
+221,Orange,32729,{'name': 'completed'},FALSE,9,13
+222,Ore Monogatari!!,28297,{'name': 'completed'},FALSE,10,24
+223,Oruchuban Ebichu,1060,{'name': 'completed'},FALSE,7,24
+224,Overlord,29803,{'name': 'completed'},FALSE,8,13
+225,Plastic Memories,27775,{'name': 'completed'},FALSE,8,13
+226,Plastic Neesan,10711,{'name': 'completed'},FALSE,8,12
+227,Poputepipikku,35330,{'name': 'completed'},FALSE,6,12
+228,Prison School,30240,{'name': 'completed'},FALSE,8,12
+229,Prison School: Mad Wax,32485,{'name': 'completed'},FALSE,6,1
+230,Radiant,37202,{'name': 'completed'},FALSE,6,21
+231,Re:Zero kara Hajimeru Isekai Seikatsu,31240,{'name': 'completed'},FALSE,7,25
+232,ReLIFE,30015,{'name': 'completed'},FALSE,10,13
+233,ReLIFE: Kanketsu-hen,35466,{'name': 'completed'},FALSE,9,4
+234,Sabage-bu!,20709,{'name': 'completed'},FALSE,8,12
+235,Sakamoto desu ga?,32542,{'name': 'completed'},FALSE,7,12
+236,Satsuriku no Tenshi,35994,{'name': 'completed'},FALSE,9,12
+237,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,37450,{'name': 'completed'},FALSE,9,13
+238,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,38329,{'name': 'completed'},FALSE,9,1
+239,Sen to Chihiro no Kamikakushi,199,{'name': 'completed'},FALSE,8,1
+240,Senryuu Shoujo,38787,{'name': 'completed'},FALSE,9,12
+241,Sewayaki Kitsune no Senko-san,38759,{'name': 'completed'},FALSE,9,12
+242,Shigatsu wa Kimi no Uso,23273,{'name': 'completed'},FALSE,10,22
+243,Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,29786,{'name': 'completed'},FALSE,7,12
+244,Shingeki no Kyojin,16498,{'name': 'completed'},FALSE,9,25
+245,Shingeki no Kyojin Season 2,25777,{'name': 'completed'},FALSE,8,12
+246,Shingeki no Kyojin Season 3,35760,{'name': 'completed'},FALSE,7,12
+247,Shingeki no Kyojin Season 3 Part 2,38524,{'name': 'completed'},FALSE,7,10
+248,Shingeki no Kyojin: The Final Season,40028,{'name': 'completed'},FALSE,8,16
+249,Sousei no Onmyouji,32105,{'name': 'completed'},FALSE,9,50
+250,SSSS.Gridman,35847,{'name': 'completed'},FALSE,7,12
+251,Steins;Gate,9253,{'name': 'completed'},FALSE,9,24
+252,Steins;Gate 0,30484,{'name': 'completed'},FALSE,7,23
+253,Strike the Blood,18277,{'name': 'completed'},FALSE,9,24
+254,Strike the Blood: Valkyria no Oukoku-hen,30321,{'name': 'completed'},FALSE,8,2
+255,Tamako Love Story,21647,{'name': 'completed'},FALSE,8,1
+256,Tamako Market,16417,{'name': 'completed'},FALSE,8,12
+257,Tamako Market Specials,17879,{'name': 'completed'},FALSE,8,6
+258,Tanaka-kun wa Itsumo Kedaruge,32093,{'name': 'completed'},FALSE,8,12
+259,Tanaka-kun wa Kyou mo Kedaruge,33004,{'name': 'completed'},FALSE,7,35
+260,Tate no Yuusha no Nariagari,35790,{'name': 'completed'},FALSE,9,25
+261,Tejina-senpai,38610,{'name': 'completed'},FALSE,6,12
+262,Tenki no Ko,38826,{'name': 'completed'},FALSE,10,1
+263,Tensei shitara Slime Datta Ken,37430,{'name': 'completed'},FALSE,7,25
+264,Tensei shitara Slime Datta Ken OVA,38793,{'name': 'completed'},FALSE,8,5
+265,The Last: Naruto the Movie,16870,{'name': 'completed'},FALSE,10,1
+266,Toki wo Kakeru Shoujo,2236,{'name': 'completed'},FALSE,8,1
+267,Tokyo Ghoul,22319,{'name': 'completed'},FALSE,9,12
+268,Tokyo Ghoul √A,27899,{'name': 'completed'},FALSE,10,12
+269,"Tokyo Ghoul: ""Jack""",30458,{'name': 'completed'},FALSE,7,1
+270,"Tokyo Ghoul: ""Pinto""",31297,{'name': 'completed'},FALSE,6,1
+271,Tokyo Ghoul:re,36511,{'name': 'completed'},FALSE,8,12
+272,Tokyo Ghoul:re 2nd Season,37799,{'name': 'completed'},FALSE,8,12
+273,Tokyo Magnitude 8.0,6211,{'name': 'completed'},FALSE,7,11
+274,Tokyo Revengers,42249,{'name': 'completed'},FALSE,10,24
+275,Tonikaku Kawaii,41389,{'name': 'completed'},FALSE,9,12
+276,Tsurezure Children,34902,{'name': 'completed'},FALSE,9,12
+277,"Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",39324,{'name': 'completed'},FALSE,8,12
+278,"Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",34498,{'name': 'completed'},FALSE,8,1
+279,Ueno-san wa Bukiyou,37920,{'name': 'completed'},FALSE,5,12
+280,Uma Musume: Pretty Derby,35249,{'name': 'completed'},FALSE,8,13
+281,Vinland Saga,37521,{'name': 'completed'},FALSE,8,24
+282,Violet Evergarden,33352,{'name': 'completed'},FALSE,9,13
+283,ViVid Strike!,33589,{'name': 'completed'},FALSE,7,12
+284,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,16742,{'name': 'completed'},FALSE,10,12
+285,"Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",20449,{'name': 'completed'},FALSE,10,1
+286,Watashi ga Motete Dousunda,32899,{'name': 'completed'},FALSE,8,12
+287,Watashi ni Tenshi ga Maiorita!,37993,{'name': 'completed'},FALSE,8,12
+288,Watashi ni Tenshi ga Maiorita! Special,38999,{'name': 'completed'},FALSE,8,1
+289,Yagate Kimi ni Naru,37786,{'name': 'completed'},FALSE,8,13
+290,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,14813,{'name': 'completed'},FALSE,8,13
+291,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,23847,{'name': 'completed'},FALSE,9,13
+292,Yakusoku no Neverland,37779,{'name': 'completed'},FALSE,8,12
+293,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,35507,{'name': 'completed'},FALSE,9,12
+294,Yuragi-sou no Yuuna-san,36726,{'name': 'completed'},FALSE,9,12
+295,Yuragi-sou no Yuuna-san OVA,36950,{'name': 'completed'},FALSE,7,4
+296,Yuri!!! on Ice,32995,{'name': 'completed'},FALSE,7,12
+297,Zankyou no Terror,23283,{'name': 'completed'},FALSE,5,11
+298,Zombieland Saga,37976,{'name': 'completed'},FALSE,9,12
+299,Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai,31245,{'name': 'completed'},FALSE,8,1
+300,Amaama to Inazuma,32828,{'name': 'backlog'},FALSE,0,0
+301,Comic Girls,35756,{'name': 'backlog'},FALSE,0,0
+302,Kanojo to Kanojo no Neko: Everything Flows,32491,{'name': 'backlog'},FALSE,0,0
+303,Kotoura-san,15379,{'name': 'backlog'},FALSE,0,0
+304,No Game No Life: Zero,33674,{'name': 'backlog'},FALSE,0,0
+305,Omoide no Marnie,21557,{'name': 'backlog'},FALSE,0,0
+306,Overlord II,35073,{'name': 'backlog'},FALSE,0,0
+307,Suki tte Ii na yo.,14289,{'name': 'backlog'},FALSE,0,0
+308,Toradora!,4224,{'name': 'backlog'},FALSE,0,0
+309,Usagi Drop,10162,{'name': 'backlog'},FALSE,0,0
+310,Yuru Camp△,34798,{'name': 'backlog'},FALSE,0,0
